@@ -10,8 +10,8 @@
 - 2023年3月 京都大学大学院 理学研究科 数学・数理解析専攻 数学系 数学先端コース　修士課程を修了
 - 2023年4月 同 博士課程に進学
 ## 受賞
-- 文部科学大臣表彰
-- 京都大学総長賞
+- 文部科学大臣表彰（2019年3月）
+- 京都大学総長賞（2020年3月）
 ## Preprint
 https://arxiv.org/abs/1905.05714
 - 学部生のときに，文部科学大臣表彰を受けたポスター発表（前述）の中身を論文にしたものです。
@@ -19,7 +19,7 @@ https://arxiv.org/abs/1905.05714
 ある政府刊行物（2019）のうち，1見開き分の原稿を執筆しました。
 ## メール
 nakata.24.nakata　outlook.jp
-- 空欄には適切な記号を入れてください。
+- 空欄には適切な記号を1つ入れてください。
 <!---
 NakataNak/NakataNak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
