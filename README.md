@@ -18,7 +18,7 @@
 - [京都大学総長賞](https://www.kyoto-u.ac.jp/ja/education-campus/Recognition/presidents/ceremony)（2020年3月）
   - 上記 文部科学大臣表彰に関して，学業部門で受賞
   - 学業部門では，賞創設から現在（2005年度～2024年度）までで**最年少**での受賞
-## Preprint
+## Preprints
 - Arthur's groups $S$ in local Langlands correspondence for certain covering groups of algebraic tori
   https://arxiv.org/abs/2503.21375
   - 改訂中です。
@@ -26,6 +26,7 @@
   https://arxiv.org/abs/1905.05714
   - 学部生のときに，文部科学大臣表彰を受けたポスター発表（前述）の中身を論文にしたものです。
 ## 研究発表（最近）
+- Local Langlands correspondence for covers of tori（予定，仮題），[The 26th Autumn Workshop on Number Theory](https://sites.google.com/view/autumn-workshop-number-theory/sapporo-2025)，北海道大学札幌キャンパス，2025年10月
 - 代数的トーラスの被覆群の局所ラングランズ対応におけるパケットのS群，[第24回仙台広島整数論集会](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima25.html)，東北大学青葉山北キャンパス，2025年7月
 - 代数的トーラスの被覆群の局所Langlands対応, [九州代数的整数論2025](https://sites.google.com/view/kyushuant2025), 九州大学伊都キャンパス，2025年3月[](（口頭）)
 - トーラスの被覆群の局所Langlands対応, 京都大学理学共創イノベーションコンソーシアム2024, 京都大学吉田キャンパス，2024年11月[](（ポスター）)
