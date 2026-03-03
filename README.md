@@ -16,22 +16,25 @@
 - [京都大学総長賞](https://www.kyoto-u.ac.jp/ja/education-campus/Recognition/presidents/ceremony)（2020年3月）
   - 上記 文部科学大臣表彰に関して，学業部門で受賞
   - 学業部門では，賞創設から現在（2005年度～2024年度）までで**最年少**での受賞
-## Preprints
-- Arthur's groups $S$ in local Langlands correspondence for certain covering groups of algebraic tori
+## 論文・Preprints
+- Local Langlands correspondence for covering groups of tori, and the packet-indexing groups
   https://arxiv.org/abs/2503.21375
-  - 改訂中です。
+  - 博士論文はこれに基づいています。
+- Central extensions of reductive groups by a cyclic group， 京都大学数学教室 修士論文
 - Fields whose multiplicative groups are linear spaces
   https://arxiv.org/abs/1905.05714
   - 学部生のときに，文部科学大臣表彰を受けたポスター発表（前述）の中身を論文にしたものです。
-## 研究発表（最近）
-- Local Langlands correspondence for covers of tori（予定，仮題），[The 26th Autumn Workshop on Number Theory](https://sites.google.com/view/autumn-workshop-number-theory/sapporo-2025)，北海道大学札幌キャンパス，2025年10月
+## 研究発表（2020年～）
+- 代数的トーラスの被覆群の大域Langlands対応，[九州代数的整数論2026](https://sites.google.com/view/kyushuant2026)，九州大学伊都キャンパス，2026年3月
+- Langlands correspondence for covering groups of algebraic tori，[RIMS共同研究(公開型)「保型形式, 保型表現, L関数の研究」](https://sites.google.com/p.chibakoudai.jp/rims2025)，京都大学吉田キャンパス，2026年1月
+- Local Langlands correspondence for covering groups of tori，[The 26th Autumn Workshop on Number Theory](https://sites.google.com/view/autumn-workshop-number-theory/sapporo-2025)，北海道大学札幌キャンパス，2025年10月
 - 代数的トーラスの被覆群の局所ラングランズ対応におけるパケットのS群，[第24回仙台広島整数論集会](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima25.html)，東北大学青葉山北キャンパス，2025年7月
 - 代数的トーラスの被覆群の局所Langlands対応, [九州代数的整数論2025](https://sites.google.com/view/kyushuant2025), 九州大学伊都キャンパス，2025年3月[](（口頭）)
 - トーラスの被覆群の局所Langlands対応, 京都大学理学共創イノベーションコンソーシアム2024, 京都大学吉田キャンパス，2024年11月[](（ポスター）)
 - 代数的トーラスの被覆群のLanglands対応, [数学・数理科学専攻若手研究者のための異分野異業種研究交流会](https://jsiam.org/jsiam_archive/kr/career2024/)（日本数学会ほか主催），東京科学大学大岡山キャンパス, 2024年10月[](（ポスター）)
 - 局所テータ対応・Howe双対性予想, 倉敷整数論集会, 倉敷シーサイドホテル，2024年9月[](（口頭）)
 - Covers of tori over global fields, NCTS-Kyoto Mathematics Symposium, National Center for Theoretical Sciences（台北），2023年12月[](（ポスター）)
-## 研究発表（古いもの）
+## 研究発表（～2019年）
 - ACE阻害薬によるNODマウス小腸粘膜細胞のMHC発現抑制と1型糖尿病発症の遅延（共同発表）, 第56回日本糖尿病学会近畿地方会, 大阪国際会議場，2019年11月（[](口頭，)査読あり）
 - 加法に似た乗法はあるか，SINAPS関西支部第9回Jamboree（学生自主研究推進機構（SINAPS）主催），奈良女子大学コラボレーションセンター，2019年10月（[](口頭，)招待講演）
 - 体の乗法群, 第8回サイエンス・インカレ（文部科学省主催），立教大学池袋キャンパス，2019年3月（[](ポスター，)査読あり）
