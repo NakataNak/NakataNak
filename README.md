@@ -23,7 +23,7 @@
 - Fields whose multiplicative groups are linear spaces
   https://arxiv.org/abs/1905.05714
   - 学部生のときに，文部科学大臣表彰を受けたポスター発表（前述）の中身を論文にしたものです。
-## 研究発表（2020年～）
+## 研究発表[](（2020年～）)
 - L-indistinguishability for covering groups of algebraic tori，[数論合同セミナー](https://www.math.kyoto-u.ac.jp/ja/event/seminar/5928)，京都大学吉田キャンパス，2026年4月
 - 代数的トーラスの被覆群の大域Langlands対応，[九州代数的整数論2026](https://sites.google.com/view/kyushuant2026)，九州大学伊都キャンパス，2026年3月
 - Langlands correspondence for covering groups of algebraic tori，[RIMS共同研究(公開型)「保型形式, 保型表現, L関数の研究」](https://sites.google.com/p.chibakoudai.jp/rims2025)，京都大学吉田キャンパス，2026年1月
