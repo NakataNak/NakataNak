@@ -1,5 +1,5 @@
 # Yuki Nakata / 中田 裕貴
-京都大学 数学教室（数学・数理解析専攻） のポスドク研究員（教務補佐員）です。
+京都大学 数学教室（理学研究科 数学・数理解析専攻） のポスドク研究員です。
 ## 研究主題
 整数論の文脈において，簡約代数群の被覆群とその保型表現論に取り組んでいます。
 ## 経歴
@@ -7,7 +7,7 @@
 - 2021年3月 京都大学理学部 数理科学系 を卒業
 - 2023年3月 京都大学大学院 理学研究科 数学・数理解析専攻 数学系 数学先端コース　修士課程を修了
 - 2026年3月 同 博士課程を修了し，学位を取得（2023年4月から2026年3月の間，日本学術振興会 特別研究員DC1[](に採用)）
-- 2026年4月 同専攻 研究員（教務補佐員）
+- 2026年5月 同専攻 研究員（教務補佐員としては同4月から）
 ## 受賞
 - [文部科学大臣表彰](https://sci.kyoto-u.ac.jp/ja/news/detail_1066)（2019年3月）
   - 第8回サイエンス・インカレでのポスター発表「体の乗法群」に対する**最優秀賞**。
@@ -16,14 +16,18 @@
   - 上記 文部科学大臣表彰に関して，学業部門で受賞
   - 学業部門では，賞創設から現在（2005年度～2025年度）までで**最年少**での受賞
 ## 論文・Preprints
-- Local Langlands correspondence for covering groups of tori, and the packet-indexing groups
-  https://arxiv.org/abs/2503.21375
+- [Local Langlands correspondence for covering groups of tori, and the packet-indexing groups](https://www.sciencedirect.com/science/article/pii/S0022314X26001046).
+  *J. Number Theory*, 289:132–159, 2026.
+  [](https://arxiv.org/abs/2503.21375)
   - 博士論文はこれに基づいています。
-- Central extensions of reductive groups by a cyclic group， 京都大学数学教室 修士論文
-- Fields whose multiplicative groups are linear spaces
+- L-indistinguishability for covering groups of algebraic tori.
+  https://arxiv.org/abs/2605.14307
+- Central extensions of reductive groups by a cyclic group.　京都大学数学教室 修士論文.
+- Fields whose multiplicative groups are linear spaces.
   https://arxiv.org/abs/1905.05714
   - 学部生のときに，文部科学大臣表彰を受けたポスター発表（前述）の中身を論文にしたものです。
 ## 研究発表[](（2020年～）)
+- Global S-group for a covering group of a torus，[3rd Sendai spring conference on automorphic forms](https://drive.google.com/file/d/1oAV_18-xa67VDr80h9v4Kc9JRyuUtDyQ/view)，東北大学青葉山北キャンパス，2026年6月
 - L-indistinguishability for covering groups of algebraic tori，[数論合同セミナー](https://www.math.kyoto-u.ac.jp/ja/event/seminar/5928)，京都大学吉田キャンパス，2026年4月
 - 代数的トーラスの被覆群の大域Langlands対応，[九州代数的整数論2026](https://sites.google.com/view/kyushuant2026)，九州大学伊都キャンパス，2026年3月
 - Langlands correspondence for covering groups of algebraic tori，[RIMS共同研究(公開型)「保型形式, 保型表現, L関数の研究」](https://sites.google.com/p.chibakoudai.jp/rims2025)，京都大学吉田キャンパス，2026年1月
@@ -38,15 +42,14 @@
 - ACE阻害薬によるNODマウス小腸粘膜細胞のMHC発現抑制と1型糖尿病発症の遅延（共同発表）, 第56回日本糖尿病学会近畿地方会, 大阪国際会議場，2019年11月（[](口頭，)査読あり）
 - 加法に似た乗法はあるか，SINAPS関西支部第9回Jamboree（学生自主研究推進機構（SINAPS）主催），奈良女子大学コラボレーションセンター，2019年10月[](（口頭，招待講演）)
 - 体の乗法群, 第8回サイエンス・インカレ（文部科学省主催），立教大学池袋キャンパス，2019年3月（[](ポスター，)査読あり）
-## 一般講演
+## 一般講演など周辺活動
 - p進数の世界へ，京大研修2021（京都大学・京都市教育委員会ほか主催），京都大学吉田キャンパス，2021年11月
   - 高校生に向けて講演
 - 高校期の探究，第4回京都高校教員交流会（（公財）大学コンソーシアム京都主催），キャンパスプラザ京都，2019年11月
   - 京滋地区の高校教員に向けて講演
 - ホモロジー代数，京大研修2018（京都大学・京都市教育委員会ほか主催），京都大学吉田キャンパス，2018年11月
   - 高校生に向けて講演
-## 周辺活動
-ある政府刊行物（2019）のうち，1見開き分の原稿を執筆しました。
+- ある政府刊行物（2019）のうち，1見開き分の原稿を執筆
 ## 研究用メール
 nakata.24.nakata　outlook.jp
 - 空欄には適切な記号を1つ入れてください。
