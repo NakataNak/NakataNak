@@ -16,7 +16,7 @@
   - 上記 文部科学大臣表彰に関して，学業部門で受賞
   - 学業部門では，賞創設から現在（2005年度～2025年度）までで**最年少**での受賞
 ## 論文・Preprints
-- [Local Langlands correspondence for covering groups of tori, and the packet-indexing groups.](https://www.sciencedirect.com/science/article/pii/S0022314X26001046)
+- [Local Langlands correspondence for covering groups of tori, and the packet-indexing groups.](https://authors.elsevier.com/a/1nI7a,WUBMgYM)
   *J. Number Theory*, 289:132–159, 2026.
   [](https://arxiv.org/abs/2503.21375)
   - 博士論文はこれに基づいています。
